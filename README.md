@@ -1,5 +1,5 @@
 # sql
-                             **Important concepts of Oracle SQL that every Data Engineer/Database Admin applying for Realational database should know.**
+**Important concepts of Oracle SQL that every Data Engineer/Database Admin applying for Realational database should know**
 
 **Indexes**
 UNIQUE: ensures all values in the columns are unique.
